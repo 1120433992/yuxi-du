@@ -1,0 +1,6 @@
+/*Add external fonts*/
+@import url('https://fonts.googleapis.com/css?family=Modak&display=swap');
+
+h1{
+  font-family: 'Modak', cursive;
+}
